@@ -13,7 +13,9 @@ class ViewController: UIViewController {
     var hello = "Hello"
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let senn = "Seen"
+        print(senn)
+        // Do any additional setup after loading  the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
